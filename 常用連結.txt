@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <style>
+        <!--*  { font-family: "標楷體"; }-->
+        p { color: blue; font-size: 50pt;}
+    </style>
+</head>
+
+<body>
+    <div>
+        <p><u> UCAN </u></p><br>
+		<img src="UCAN.jpg" width="80%" ></img><br>
+		我的職涯分析顯示出我的企業型、事務型以及社會型較高，確實這三方面都有跟我的性格相向，而我自己對於跟人涉接也有很大的興趣，雖然從事的這些行業都跟目前所學沒有直接的相關聯。
+    </div>
+</body>
+</html>
